@@ -8,7 +8,7 @@
 [![Contributors](https://img.shields.io/github/contributors/behl1anmol/MAUI-Primer?color=orange)](https://github.com/behl1anmol/MAUI-Primer/graphs/contributors)
 [![GitHub Issues](https://img.shields.io/github/issues/behl1anmol/MAUI-Primer?color=yellow)](https://github.com/behl1anmol/MAUI-Primer)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/behl1anmol/MAUI-Primer)](https://github.com/behl1anmol/MAUI-Primer/pulls)
-[![License](https://img.shields.io/badge/license-CC0-blue)](LICENSE.md)
+[![License](https://img.shields.io/github/license/behl1anmol/MAUI-Primer?color=blue)](LICENSE.md)
 
 </div>
 
