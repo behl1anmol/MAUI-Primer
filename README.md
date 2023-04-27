@@ -1,19 +1,28 @@
-# MAUI-Primer
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="images/maui_primer.png" alt="MAUI Primer Logo"></a>
+</p>
 
-## Table of Contents
+<div align="center">
+
+</div>
+
+---
+
+## 📝 Table of Contents
 
 - [Motivation](#motivation)
+- [Study Guide](#📗-study-guide)
 - [Contributing](#contributing)
-- [Index](#index)
 - [Under development](#under-development)
 
-## Motivation <a name = "Motivation"></a>
+# Motivation <a name = "Motivation"></a>
 
 > Learn how to build cross platform applications.
 
 .NET MAUI is a cross platform framework for building mobile and desktop applications using C# and XAML.
 
-This repo is an **organized collection** of resources to help you learn MAUI and build applications.
+This is a community guide for developers interested in learning and developing cross platform app development using MAUI. This repo is an **organized collection** of resources to help you learn MAUI and build applications.
 
 ### Learn from the open source community
 
@@ -21,7 +30,7 @@ This is an open source project. The goal is to continually update the content.
 
 [Contributions](#contributing) are welcome!
 
-## Index
+# 📗 Study Guide
 - ### Prerequisites
 	- Install .NET CLI 
 	- Install Visual Studio 2022
@@ -272,13 +281,14 @@ This is an open source project. The goal is to continually update the content.
 	- Facade
 	- Mediator
 
-## Contributing
+# Contributing
 
 > Learn from the community.
 
 Feel free to submit pull requests to help:
 
 * Fix errors
+* Add content for existing sections
 * Improve sections
 * Add new sections
 
@@ -286,8 +296,8 @@ Content that needs some polishing will be placed [under development](#under-deve
 
 Review the [Contributing Guidelines](CONTRIBUTING.md).
 
-## Under development
+# Under development
 
 Interested in adding a section or helping complete one in-progress?  [Contribute](#contributing)!
 
-* [Contribute](#contributing)
+- [Study Guide](#study-guide)
