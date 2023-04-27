@@ -306,3 +306,20 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
 Interested in adding a section or helping complete one in-progress?  [Contribute](#contributing)!
 
 - [Study Guide](#study-guide)
+
+
+# Contact info
+
+Feel free to contact me to discuss any issues, questions, or comments.
+
+My contact info can be found on my [GitHub page](https://github.com/behl1anmol).
+
+# License
+
+*I am providing code and resources in this repository to you under an open source license. You can view the complete terms in [License.md](LICENSE.md)*
+
+    Copyright 2023 Anmol Behl
+
+    Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
+    http://creativecommons.org/licenses/by/4.0/
