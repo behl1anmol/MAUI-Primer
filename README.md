@@ -16,12 +16,12 @@
 
 ## 📝 Table of Contents
 
-- [Motivation](#🙌-motivation)
-- [Study Guide](#📗-study-guide)
-- [Contributing](#🤝contributing)
-- [Under development](#⚙️under-development)
-- [Contact Info](#📱contact-info)
-- [License](#🪪license)
+- [Motivation](#motivation)
+- [Study Guide](#study-guide)
+- [Contributing](#contributing)
+- [Under development](#under-development)
+- [Contact Info](#contact-info)
+- [License](#license)
 
 # 🙌 Motivation <a name = "Motivation"></a>
 
