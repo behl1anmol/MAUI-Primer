@@ -16,16 +16,18 @@
 
 ## 📝 Table of Contents
 
-- [Motivation](#motivation)
+- [Motivation](#🙌-motivation)
 - [Study Guide](#📗-study-guide)
-- [Contributing](#contributing)
-- [Under development](#under-development)
+- [Contributing](#🤝contributing)
+- [Under development](#⚙️under-development)
+- [Contact Info](#📱contact-info)
+- [License](#🪪license)
 
-# Motivation <a name = "Motivation"></a>
+# 🙌 Motivation <a name = "Motivation"></a>
 
 > Learn how to build cross platform applications.
 
-.NET MAUI is a cross platform framework for building mobile and desktop applications using C# and XAML.
+.NET MAUI is a cross platform framework for building mobile and desktop applications using C# and XAML. Goal is to deliver a better, streamlined and free of cost learning experience to developers.
 
 This is a community guide for developers interested in learning and developing cross platform app development using MAUI. This repo is an **organized collection** of resources to help you learn MAUI and build applications.
 
@@ -33,7 +35,7 @@ This is a community guide for developers interested in learning and developing c
 
 This is an open source project. The goal is to continually update the content.
 
-[Contributions](#contributing) are welcome!
+[Contributions](#🤝contributing) are welcome!
 
 # 📗 Study Guide
 - ### Prerequisites
@@ -286,7 +288,7 @@ This is an open source project. The goal is to continually update the content.
 	- Facade
 	- Mediator
 
-# Contributing
+# 🤝Contributing
 
 > Learn from the community.
 
@@ -297,24 +299,24 @@ Feel free to submit pull requests to help:
 * Improve sections
 * Add new sections
 
-Content that needs some polishing will be placed [under development](#under-development).
+Content that needs some polishing will be placed [under development](#⚙️under-development).
 
 Review the [Contributing Guidelines](CONTRIBUTING.md).
 
-# Under development
+# ⚙️Under development
 
 Interested in adding a section or helping complete one in-progress?  [Contribute](#contributing)!
 
-- [Study Guide](#study-guide)
+- [Study Guide](#📗-study-guide)
 
 
-# Contact info
+# 📱Contact info
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
 My contact info can be found on my [GitHub page](https://github.com/behl1anmol).
 
-# License
+# 🪪License
 
 I am providing code and resources in this repository to you under an open source license. You can view the complete terms in [License](LICENSE.md) page
 
