@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="images/maui_primer.png" alt="MAUI Primer Logo" width=300></a>
+ <img src="images/maui_primer.png" alt="MAUI Primer Logo" width=600></a>
 </p>
 
 <div align="center">
