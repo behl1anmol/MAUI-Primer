@@ -316,7 +316,7 @@ My contact info can be found on my [GitHub page](https://github.com/behl1anmol).
 
 # License
 
-*I am providing code and resources in this repository to you under an open source license. You can view the complete terms in [License.md](LICENSE.md)*
+I am providing code and resources in this repository to you under an open source license. You can view the complete terms in [License](LICENSE.md) page
 
     Copyright 2023 Anmol Behl
 
