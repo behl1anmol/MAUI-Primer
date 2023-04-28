@@ -19,7 +19,7 @@
 - [Motivation](#motivation)
 - [Study Guide](#study-guide)
 - [Contributing](#contributing)
-- [Under development](#under-development)
+- [Under development](#%EF%B8%8Funder-development)
 - [Contact Info](#contact-info)
 - [License](#license)
 
