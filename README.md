@@ -16,14 +16,14 @@
 
 ## 📝Table of Contents
 
-- [Motivation](#Motivation)
+- [Motivation](#motivation)
 - [Study Guide](#study-guide)
 - [Contributing](#contributing)
-- [Under development](#Under-Development)
+- [Under development](#under-development)
 - [Contact Info](#contact-info)
 - [License](#license)
 
-# 🙌Motivation <a name = "Motivation"></a>
+# 🙌Motivation
 
 > Learn how to build cross platform applications.
 
@@ -35,7 +35,7 @@ This is a community guide for developers interested in learning and developing c
 
 This is an open source project. The goal is to continually update the content.
 
-[Contributions](#🤝contributing) are welcome!
+[Contributions](#contributing) are welcome!
 
 # 📗Study Guide
 - ### Prerequisites
@@ -303,11 +303,11 @@ Content that needs some polishing will be placed [under development](#⚙️unde
 
 Review the [Contributing Guidelines](CONTRIBUTING.md).
 
-# ⚙️Under development <a name = "Under-Development"></a>
+# ⚙️Under development
 
 Interested in adding a section or helping complete one in-progress?  [Contribute](#contributing)!
 
-- [Study Guide](#📗-study-guide)
+- [Study Guide](#study-guide)
 
 
 # 📱Contact info
