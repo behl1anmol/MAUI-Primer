@@ -14,16 +14,16 @@
 
 ---
 
-## 📝 Table of Contents
+## 📝Table of Contents
 
-- [Motivation](#🙌-motivation)
-- [Study Guide](#📗-study-guide)
-- [Contributing](#🤝contributing)
-- [Under development](#⚙️under-development)
-- [Contact Info](#📱contact-info)
-- [License](#🪪license)
+- [Motivation](#motivation)
+- [Study Guide](#study-guide)
+- [Contributing](#contributing)
+- [Under development](#%EF%B8%8Funder-development)
+- [Contact Info](#contact-info)
+- [License](#license)
 
-# 🙌 Motivation <a name = "Motivation"></a>
+# 🙌Motivation
 
 > Learn how to build cross platform applications.
 
@@ -35,9 +35,9 @@ This is a community guide for developers interested in learning and developing c
 
 This is an open source project. The goal is to continually update the content.
 
-[Contributions](#🤝contributing) are welcome!
+[Contributions](#contributing) are welcome!
 
-# 📗 Study Guide
+# 📗Study Guide
 - ### Prerequisites
 	- Install .NET CLI 
 	- Install Visual Studio 2022
@@ -307,7 +307,7 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
 
 Interested in adding a section or helping complete one in-progress?  [Contribute](#contributing)!
 
-- [Study Guide](#📗-study-guide)
+- [Study Guide](#study-guide)
 
 
 # 📱Contact info
