@@ -14,16 +14,16 @@
 
 ---
 
-## 📝 Table of Contents
+## 📝Table of Contents
 
-- [Motivation](#motivation)
+- [Motivation](#Motivation)
 - [Study Guide](#study-guide)
 - [Contributing](#contributing)
-- [Under development](#under-development)
+- [Under development](#Under-Development)
 - [Contact Info](#contact-info)
 - [License](#license)
 
-# 🙌 Motivation <a name = "Motivation"></a>
+# 🙌Motivation <a name = "Motivation"></a>
 
 > Learn how to build cross platform applications.
 
@@ -37,7 +37,7 @@ This is an open source project. The goal is to continually update the content.
 
 [Contributions](#🤝contributing) are welcome!
 
-# 📗 Study Guide
+# 📗Study Guide
 - ### Prerequisites
 	- Install .NET CLI 
 	- Install Visual Studio 2022
@@ -303,7 +303,7 @@ Content that needs some polishing will be placed [under development](#⚙️unde
 
 Review the [Contributing Guidelines](CONTRIBUTING.md).
 
-# ⚙️Under development
+# ⚙️Under development <a name = "Under-Development"></a>
 
 Interested in adding a section or helping complete one in-progress?  [Contribute](#contributing)!
 
