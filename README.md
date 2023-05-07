@@ -308,7 +308,7 @@ Currently, MAUI App development is feasible only in Windows. Install the necessa
 - Open Command Prompt or PowerShell (Win + X) and type "`dotnet --version`".
 
 <p align="center">
- <img src="images/dotnet-cli.png" alt="dotnet-cli" width=500>
+ <img src="images/dotnet-cli.png" alt="dotnet-cli" width=550>
 </p>
 
 -  You should see the version number of .NET that you just installed. This will confirm that the installation is successful.
