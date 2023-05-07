@@ -288,6 +288,60 @@ This is an open source project. The goal is to continually update the content.
 	- Facade
 	- Mediator
 
+## **Prerequisites**
+---
+New to MAUI?
+
+To have a complete learning experience, you'll first need to set up your machine. 
+
+Currently, MAUI App development is feasible only in Windows. Install the necessary tools to get yourself going. 
+
+### **Installing .NET CLI**
+- Use the link below to head over to the official Microsoft website to download .NET SDK installer:
+
+	- https://dotnet.microsoft.com/en-us/download/dotnet
+
+- We recommend downloading the latest version, which should be listed at the top of the page.
+
+- Once the download is complete, move forward to start the installation process. Follow the instructions provided by the installer to complete the installation.
+
+- Open Command Prompt or PowerShell (Win + X) and type "`dotnet --version`".
+
+<p align="center">
+ <img src="images/dotnet-cli.png" alt="dotnet-cli" width=400>
+</p>
+
+-  You should see the version number of .NET that you just installed. This will confirm that the installation is successful.
+
+### **Installing Visual Studio**
+
+- MAUI is available on Visual Studio (>=2022). Use the link below to download the latest version of Visual Studio:
+
+	- https://visualstudio.microsoft.com/downloads/
+
+- Once downloaded run the installer. Select *".NET Multi Platform App Development"* from *"Workloads"* and *"Git for Windows"* from *"Individual Components"*.
+
+<div>
+<p align="center">
+ <img src="images/maui-install.png" alt="Installing Visual Studio (MAUI)" width=300>
+ </p>
+ <p align="center">
+ <img src="images/Git-for-windows.png" alt="Installing Visual Studio (Git)" width=300>
+</p>
+<div>
+
+- Feel free to install any other workloads/components as per your requirements.
+
+- Continue the installer to complete the installation.
+
+### **Install Visual Studio Code**
+
+- You can also use on Visual Studio Code for developing apps using MAUI. Use the link below to download the latest version of Visual Studio Code:
+
+	- https://code.visualstudio.com/download
+
+- Once the download is complete, move forward to start the installation process. Follow the instructions provided by the installer to complete the installation.
+
 # 🤝Contributing
 
 > Learn from the community.
