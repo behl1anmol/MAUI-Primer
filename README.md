@@ -308,7 +308,7 @@ Currently, MAUI App development is feasible only in Windows. Install the necessa
 - Open Command Prompt or PowerShell (Win + X) and type "`dotnet --version`".
 
 <p align="center">
- <img src="images/dotnet-cli.png" alt="dotnet-cli" width=400>
+ <img src="images/dotnet-cli.png" alt="dotnet-cli" width=500>
 </p>
 
 -  You should see the version number of .NET that you just installed. This will confirm that the installation is successful.
@@ -321,14 +321,10 @@ Currently, MAUI App development is feasible only in Windows. Install the necessa
 
 - Once downloaded run the installer. Select *".NET Multi Platform App Development"* from *"Workloads"* and *"Git for Windows"* from *"Individual Components"*.
 
-<div>
-<p align="center">
- <img src="images/maui-install.png" alt="Installing Visual Studio (MAUI)" width=300>
- </p>
- <p align="center">
- <img src="images/Git-for-windows.png" alt="Installing Visual Studio (Git)" width=300>
-</p>
-<div>
+<div style="width: 100%; box-sizing: border-box;text-align: center;">
+ <img style="float:center; margin-right:10px;" src="images/maui-install.png" alt="Installing Visual Studio (MAUI)" width=250>
+ <img style="float:center;" src="images/Git-for-windows.png" alt="Installing Visual Studio (Git)" width=400>
+</div>
 
 - Feel free to install any other workloads/components as per your requirements.
 
