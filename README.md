@@ -38,7 +38,7 @@ This is an open source project. The goal is to continually update the content.
 [Contributions](#contributing) are welcome!
 
 # 📗Study Guide
-- ### Prerequisites
+- ### [Prerequisites](#prerequisites-guide)
 	- Install .NET CLI 
 	- Install Visual Studio 2022
 	- Install Visual Studio Code
@@ -288,6 +288,7 @@ This is an open source project. The goal is to continually update the content.
 	- Facade
 	- Mediator
 
+<a name=“prerequisites-guide”></a>
 ## **Prerequisites**
 ---
 New to MAUI?
