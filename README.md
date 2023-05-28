@@ -39,9 +39,9 @@ This is an open source project. The goal is to continually update the content.
 
 # 📗Study Guide
 - ### [Prerequisites](#prerequisites-guide)
-	- Install .NET CLI 
-	- Install Visual Studio 2022
-	- Install Visual Studio Code
+	- [Install .NET CLI](#installing-.net-cli)
+	- [Install Visual Studio 2022](#installing- visual-studio)
+	- [Install Visual Studio Code](#install- visual-studio-code)
 - ### General Development Skills
 	- GIT - Version Control (VSTS, GitHub, GitLab)
 	- HTTP/HTTPS protocol
