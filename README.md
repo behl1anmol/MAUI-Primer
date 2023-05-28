@@ -38,10 +38,10 @@ This is an open source project. The goal is to continually update the content.
 [Contributions](#contributing) are welcome!
 
 # 📗Study Guide
-- ### [Prerequisites](#prerequisites-guide)
+- ### [Prerequisites]
 	- [Install .NET CLI](#installing-.net-cli)
-	- [Install Visual Studio 2022](#installing- visual-studio)
-	- [Install Visual Studio Code](#install- visual-studio-code)
+	- [Install Visual Studio 2022](#installing-visual-studio)
+	- [Install Visual Studio Code](#install-visual-studio-code)
 - ### General Development Skills
 	- GIT - Version Control (VSTS, GitHub, GitLab)
 	- HTTP/HTTPS protocol
@@ -288,7 +288,6 @@ This is an open source project. The goal is to continually update the content.
 	- Facade
 	- Mediator
 
-<a name=“prerequisites-guide”></a>
 ## **Prerequisites**
 ---
 New to MAUI?
